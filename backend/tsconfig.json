@@ -15,6 +15,7 @@
     "skipLibCheck": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
   },
   "exclude": [
     "./tests/**/*.ts",

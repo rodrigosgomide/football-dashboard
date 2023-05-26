@@ -1,5 +1,5 @@
 import app from "./app";
-import AppDataSource from "./models/connection"
+import AppDataSource from "./infra/database/mySQL"
 
 const PORT = 3000
 app.listen(() =>{

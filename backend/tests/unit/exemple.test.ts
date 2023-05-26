@@ -1,3 +1,3 @@
-test('adds 1 + 2 to equal 3', () => {
+test('É possivel criar um instância de User', () => {
   expect(1 + 2).toBe(3);
 });
